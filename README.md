@@ -63,3 +63,6 @@ Final Note:
         ```sh
         env-help
         ```
+## Acknowledgements and Thank You's
+
+This repository was developed by Alder Whiteford, Garret Ladley, and Jackson Terril as part of their role as Software Chiefs for Generate Product Development. Huge thank you to them for their efforts designing this workshop, and for allowing me to use it in my own work!
