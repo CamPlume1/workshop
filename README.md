@@ -65,4 +65,9 @@ Final Note:
         ```
 ## Acknowledgements and Thank You's
 
-This repository was developed by Alder Whiteford, Garret Ladley, and Jackson Terril as part of their role as Software Chiefs for Generate Product Development. Huge thank you to them for their efforts designing this workshop, and for allowing me to use it in my own work!
+Special thanks to the following for granting permission for me to share this workshop with my peers, and training me in its implementation:
+
+- [Alder Whiteford](https://github.com/alderwhiteford), Chief of Software @ [GenerateNU](https://github.com/GenerateNU)
+- [Garrett Ladley](https://github.com/garrettladley), Chief of Software @ [GenerateNU](https://github.com/GenerateNU)
+- [Jackson Terrill](https://github.com/jtrrll), Chief of Software @ [GenerateNU](https://github.com/GenerateNU)
+
